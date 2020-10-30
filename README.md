@@ -41,7 +41,7 @@ The main goal is to design a front end for a chatbot.This should be like a conve
 
 ## Important links
 - Repel Links
-    - [Link for code](https://repl.it/@VamsiCheruku/week2Final#index.htmls)
+    - [Link for code](https://repl.it/@bharadwajdasari/WEEK2#index.html)
     - [Link for bot](https://WEEK2.bharadwajdasari.repl.co)
 - [YouTube Video link]()
 
