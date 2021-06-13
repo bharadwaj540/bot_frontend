@@ -1,7 +1,7 @@
 # bot_frontend
 
 ## Chatbot Team
-|**Siva(18PA1A0555)**|**Vamsi(18PA1A0531)**|**Bharadwaj(18PA1A0540)**|
+|**Bharadwaj(18PA1A0540)**|**Vamsi(18PA1A0531)**|**Siva(18PA1A0555)**|
 |---|---|---|
 ![](http://learncodeonline.in/mascot.png)   |  ![](http://learncodeonline.in/mascot.png)|  ![](http://learncodeonline.in/mascot.png)  |
 
